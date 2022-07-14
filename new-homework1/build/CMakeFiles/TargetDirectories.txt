@@ -1,0 +1,3 @@
+C:/Users/z1hen/.vscode/extensions/course-otus/new-homework1/build/CMakeFiles/self-check.dir
+C:/Users/z1hen/.vscode/extensions/course-otus/new-homework1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/z1hen/.vscode/extensions/course-otus/new-homework1/build/CMakeFiles/ZERO_CHECK.dir
