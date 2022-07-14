@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(1self-check)
+project(1self-check CXX)
 
 add_executable(self-check
 hello.cpp
