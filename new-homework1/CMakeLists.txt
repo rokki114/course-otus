@@ -1,12 +1,17 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.15)
 
 project(1self-check CXX)
 
 add_executable(self-check
-hello.cpp
 move_me_out.cpp
-move_me_out.h
+hello.cpp
 )
+
+if (MSVC)
+target_compile_options(self-check PUBLIC /W4 /WX)
+else()
+target_compile_options(self-check PUBLIC -Wall -Wextra -pedantic -Werror)
+endif()
 
 set_target_properties(self-check PROPERTIES
     CXX_STANDARD 17
