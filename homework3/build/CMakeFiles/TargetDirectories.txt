@@ -1,3 +1,0 @@
-C:/Users/z1hen/otus personality/lecture 5 Модульность. Линковка/homework/homework3/build/CMakeFiles/homework_3.dir
-C:/Users/z1hen/otus personality/lecture 5 Модульность. Линковка/homework/homework3/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/z1hen/otus personality/lecture 5 Модульность. Линковка/homework/homework3/build/CMakeFiles/ZERO_CHECK.dir

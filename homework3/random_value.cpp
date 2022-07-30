@@ -7,7 +7,7 @@ int random_value() {
 
 	const int max_value = 100;
 
-	std::srand(std::time(nullptr)); 
+	std::srand((unsigned int)std::time(nullptr)); 
 
 	const int random_value = std::rand() % max_value;
 	
